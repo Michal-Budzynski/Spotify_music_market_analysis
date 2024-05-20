@@ -1,5 +1,5 @@
 # Analiza rynku muzycznego Spotify
-[Available only in polish]
+Available only in polish
 
 ## Spis treści
 - [Opis projektu](#opis-projektu)
