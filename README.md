@@ -15,7 +15,7 @@ Available only in polish
 - [Licencja](#licencja)
 
 ## Opis projektu
-Niniejszy projekt to moja praca licencjacka, zrealizowana na kierunku Informatyka i Ekonometria, Wydziału Nauk Ekonomicznych Uniwersytetu Warszawskiego, pod kierunkiem dr. hab. Katarzyny Kopczewskiej, prof. ucz. Praca zawiera analizę rynku muzycznego Spotify z wykorzystaniem różnych metod statystycznych i technik uczenia maszynowego.
+Niniejszy projekt to moja praca licencjacka, zrealizowana na kierunku Informatyka i Ekonometria, Wydziału Nauk Ekonomicznych Uniwersytetu Warszawskiego, pod kierunkiem dr. hab. Katarzyny Kopczewskiej, prof. ucz. Praca zawiera analizę rynku muzycznego Spotify z wykorzystaniem różnych metod statystycznych i technik uczenia maszynowego. Praca została obroniona na 5 :)
 
 ## Struktura projektu
 Projekt składa się z trzech głównych części:
